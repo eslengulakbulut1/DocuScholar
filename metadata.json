@@ -1,0 +1,5 @@
+{
+  "name": "DocuScholar AI1",
+  "description": "An AI-powered academic writing assistant grounded in Google Docs-like UX, offering template-based guidance (IMRAD, Thesis, Report) and real-time structural suggestions.",
+  "requestFramePermissions": []
+}
